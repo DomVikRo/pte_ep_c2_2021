@@ -7,3 +7,4 @@ for x in szav:
     if(num>=10):
         print(szav[i])
     i=i+1
+//
