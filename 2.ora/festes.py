@@ -1,4 +1,4 @@
-falak=75*4
+falak=75
 festek=falak/15*4300
 ido=falak*13
 festo=ido/60*2100
