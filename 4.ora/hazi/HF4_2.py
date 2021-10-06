@@ -7,4 +7,4 @@ i=3
 while i<n:
     m=m*q
     i+=1
-print(m)
+print("A kívánt szám értéke: "+m)
